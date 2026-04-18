@@ -1,0 +1,9 @@
+ls
+unzip 'Dipak.zip'
+ls
+cd 'Dipak'
+ls
+pip install telebot
+chmod +x *
+ls
+python m.py
